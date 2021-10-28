@@ -31,9 +31,9 @@ function Footer() {
         </a></li>
     </ul>
     <ul class="menu">
-    <li class="menu__item"><NavLink exact className='menu__link' to='/'>Home</NavLink></li>
-    <li class="menu__item"><NavLink exact className='menu__link' to='/about'>About</NavLink></li>
-    <li class="menu__item"><NavLink exact className='menu__link' to='/courses'>Courses</NavLink></li>
+    <li class="menu__item"><NavLink exact className='menu__link' to='/VenusEdTech/'>Home</NavLink></li>
+    <li class="menu__item"><NavLink exact className='menu__link' to='/VenusEdTech/about'>About</NavLink></li>
+    <li class="menu__item"><NavLink exact className='menu__link' to='/VenusEdTech/courses'>Courses</NavLink></li>
 
     </ul>
     <p>&copy;2021 Venus Ed | All Rights Reserved</p>
