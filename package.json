@@ -16,7 +16,7 @@
     "react-scripts": "4.0.3",
     "reactjs-popup": "^2.0.5",
     "web-vitals": "^1.0.1",
-    "homepage": "https://github.com/romaanchak-Rishabh/VenusEdTech",
+    "homepage": "https://github.com/romaanchak-Rishabh/VenusEdTech"
   },
   "scripts": {
     "predeploy": "npm run build",
