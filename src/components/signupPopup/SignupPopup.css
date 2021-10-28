@@ -67,7 +67,7 @@
       font-size: 2rem;
   }
   
-  .signup-modal-container .body form .footer {
+  .signup-modal-container .body form .signup-footer {
     width: 109%;
     flex: 20%;
     display: flex;
@@ -76,7 +76,7 @@
     padding-top: 3rem;
   }
   
-  .signup-modal-container .body form .footer button {
+  .signup-modal-container .body form .signup-footer button {
     width: 100%;
     height: 4.5rem;
     border: none;

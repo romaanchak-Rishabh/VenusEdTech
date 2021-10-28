@@ -67,7 +67,7 @@
       font-size: 2rem;
   }
   
-  .modal-container form .footer {
+  .modal-container form .login-footer {
     width: 109%;
     flex: 20%;
     display: flex;
@@ -76,7 +76,7 @@
     padding-top: 5rem;
   }
   
-  .modal-container form .footer button {
+  .modal-container form .login-footer button {
     width: 100%;
     height: 4.5rem;
     border: none;

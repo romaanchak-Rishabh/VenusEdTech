@@ -16,7 +16,7 @@ function LoginPopup({closeModal}) {
                     <form>
                         <input type='email' placeholder='Email' required='true'></input>
                         <input type='password' placeholder='Password' required='true'></input>
-                        <div className='footer'>
+                        <div className='login-footer'>
                             <button>Login</button>
                         </div>
                     </form>

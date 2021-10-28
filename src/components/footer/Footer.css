@@ -12,6 +12,7 @@
   flex-direction: column;
   margin-top: 10rem;
   padding-bottom: 2rem;
+  z-index: 50;
 }
 
 .social-icon,
@@ -74,28 +75,28 @@
 }
 
 .wave#wave1 {
-  z-index: 1000;
+  z-index: 100;
   opacity: 1;
   bottom: 0;
   animation: animateWaves 4s linear infinite;
 }
 
 .wave#wave2 {
-  z-index: 999;
+  z-index: 99;
   opacity: 0.5;
   bottom: 1.0rem;
   animation: animate 4s linear infinite !important;
 }
 
 .wave#wave3 {
-  z-index: 1000;
+  z-index: 100;
   opacity: 0.2;
   bottom: 1.5rem;
   animation: animateWaves 3s linear infinite;
 }
 
 .wave#wave4 {
-  z-index: 999;
+  z-index: 99;
   opacity: 0.7;
   bottom: 2.0rem;
   animation: animate 3s linear infinite;
