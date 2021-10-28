@@ -1,5 +1,6 @@
 {
   "name": "venus-ed",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,8 +16,7 @@
     "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
     "reactjs-popup": "^2.0.5",
-    "web-vitals": "^1.0.1",
-    "homepage": "https://github.com/romaanchak-Rishabh/VenusEdTech"
+    "web-vitals": "^1.0.1"
   },
   "scripts": {
     "predeploy": "npm run build",
