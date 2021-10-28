@@ -20,7 +20,7 @@ function SignupPopup({closeModal}) {
                         <input type='email' placeholder='Email' required='true'></input>
                         <input type='password' placeholder='Password' required='true'></input>
                         <input type='password' placeholder='Confirm Password' required='true'></input>
-                        <div className='gignup-footer'>
+                        <div className='signup-footer'>
                             <button type='submit'>Login</button>
                         </div>
                     </form>
